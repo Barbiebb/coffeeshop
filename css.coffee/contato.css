@@ -1,0 +1,120 @@
+.Corfundo{background-color:rgb(160, 154, 136);
+}
+
+.bordabranca{background-color:rgb(104, 99, 82);
+}
+margin: -10px;{
+font-size:1.5Cm;
+height: 101%;
+}
+
+.fonte{color:rgb(104, 99, 82);}
+.texto-com-borda {
+    width: 800px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: rgb(83, 17, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 200px;
+  }
+  .h { 
+
+    background-color: #fff; 
+
+    height: 60px; 
+
+    margin: -10px; 
+
+    font-size: 2cm; 
+
+    align-items: center; 
+
+    display: flex; 
+
+    justify-content: center; 
+
+    width: 101.5%; 
+
+} 
+
+   
+
+  h1 { 
+
+    color: rgb(104, 99, 82);
+
+    margin: 0; 
+
+  } 
+
+ 
+  form { 
+
+    display: flex; 
+
+    align-items: center; 
+
+  } 
+
+   
+
+  input[type="text"] { 
+
+    padding: 10px; 
+
+    font-size: 16px; 
+
+    border: none; 
+
+    border-radius: 5px; 
+
+    margin-top: 0.4cm; 
+
+    margin-bottom: 0.4cm; 
+
+    font-size: 0.7cm; 
+
+  } 
+
+   
+
+  button[type="submit"] { 
+
+    padding: 10px 20px; 
+
+    background-color: blue; 
+
+    color: white; 
+
+    border: none; 
+
+    border-radius: 5px; 
+
+    cursor: pointer; 
+
+    margin-left: 10px; 
+
+    margin-top: 0.4cm; 
+
+    margin-bottom: 0.4cm; 
+
+    font-size: 0.7cm; 
+
+    margin-right: 0.1cm; }
+
+    .form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .label {
+      margin-bottom: 10px;
+      color: white;
+      font-size: 1cm;
+    }
+    .input{background-color: white;
+        font-size: 1cm;
+    }
